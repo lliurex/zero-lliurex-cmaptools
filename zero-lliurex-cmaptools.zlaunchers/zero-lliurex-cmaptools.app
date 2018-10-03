@@ -1,0 +1,16 @@
+Name=zero-lliurex-cmaptools
+Name[es]=Instalador del CmapTools
+Name[qcv]=Instal·lador del CmapTools
+Name[ca_ES]=Instal·lador del CmapTools
+Comment=CmapTools Installer
+Comment[es]=Instalador del CmapTools
+Comment[qcv]=Instal·lador del CmapTools
+Comment[ca_ES]=Instal·lador del CmapTools
+Icon=zero-lliurex-cmaptools
+Category=Software
+ScriptPath=zero-lliurex-cmaptools.zmd
+Groups=adm;admins;teachers
+Using=pe
+Service=True
+Modal=True
+Locks=zero-lliurex-cmaptools

@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='utf-8'?>
+<component type="desktop-application">
+<id>zero-lliurex-cmaptools</id>
+<metadata_license>CC0-1.0</metadata_license>
+<name>zero-lliurex-cmaptools</name>
+<name xml:lang="es">Instalador del CmapTools</name>
+<name xml:lang="ca_ES.UTF-8@valencia">Instal·lador del CmapTools</name>
+<name xml:lang="ca_ES@valencia">Instal·lador del CmapTools</name>
+<name xml:lang="ca_ES">Instal·lador del CmapTools</name>
+<summary>It empowers users to construct, navigate, share and criticize knowledge models represented as concept maps.</summary>
+<summary xml:lang="es">Permite a los usuarios construir, navegar, compartir y debatir modelos de conocimiento representados como mapas conceptuales.</summary>
+<summary xml:lang="ca_ES.UTF-8@valencia">Permet als usuaris construir, navegar, compartir i debatre models de coneixement representats com mapes conceptuals.</summary>
+<summary xml:lang="ca_ES@valencia">Permet als usuaris construir, navegar, compartir i debatre models de coneixement representats com mapes conceptuals.</summary>
+<summary xml:lang="ca_ES">Permet als usuaris construir, navegar, compartir i debatre models de coneixement representats com mapes conceptuals.</summary>
+<description>
+<p>CmapTools Installer</p>
+<p xml:lang="es">Instalador del CmapTools. Cmap Tools nos ofrece muchas plantillas listas para usar y objetos tales como figuras geométricas, flechas, estrellas ... aunque permite, también, subir imágenes desde nuestro ordenador. Se pueden hacer varios mapas a la vez que se colocan en diferentes pestañas. Permite invitar colaboradores, añadir comentarios y enviar el mapa por correo. Por otra parte, se puede exportar como imagen o PDF para guardarlo en nuestro ordenador. Las aplicaciones a llevar a cabo son muy variadas, desde organizar un simple encuentro familiar hasta complejos mapas de desarrollo dentro de un laboratorio y / o gran empresa. También se puede usar para estructurar los trabajos, ya sean de cómo llevar la casa hasta la organización de los apuntes, como estudiar y con qué intensidad se hará ...</p>
+<p xml:lang="ca_ES.UTF-8@valencia">Instal·lador del CmapTools. Cmap Tools ens ofereix moltes plantilles llestes per a usar i objectes com ara figures geomètriques, fletxes, estrelles ... encara que permet, també, pujar imatges des del nostre ordinador. Es poden fer diversos mapes alhora que es col·loquen en diferents pestanyes. Permet convidar col·laboradors, afegir comentaris i enviar el mapa per correu. D'altra banda, es pot exportar com a imatge o PDF per desar-lo al nostre ordinador. Les aplicacions a dur a terme són molt variades, des d'organitzar una simple trobada familiar fins a complexos mapes de desenvolupament dins d'un laboratori i/o gran empresa. També es pot fer servir per a estructurar les feines, ja siguen de com portar la casa fins a l'organització dels apunts, com estudiar i en quina intensitat es farà...</p>
+<p xml:lang="ca_ES@valencia">Instal·lador del CmapTools. Cmap Tools ens ofereix moltes plantilles llestes per a usar i objectes com ara figures geomètriques, fletxes, estrelles ... encara que permet, també, pujar imatges des del nostre ordinador. Es poden fer diversos mapes alhora que es col·loquen en diferents pestanyes. Permet convidar col·laboradors, afegir comentaris i enviar el mapa per correu. D'altra banda, es pot exportar com a imatge o PDF per desar-lo al nostre ordinador. Les aplicacions a dur a terme són molt variades, des d'organitzar una simple trobada familiar fins a complexos mapes de desenvolupament dins d'un laboratori i/o gran empresa. També es pot fer servir per a estructurar les feines, ja siguen de com portar la casa fins a l'organització dels apunts, com estudiar i en quina intensitat es farà...</p>
+<p xml:lang="ca_ES">Instal·lador del CmapTools. Cmap Tools ens ofereix moltes plantilles llestes per a usar i objectes com ara figures geomètriques, fletxes, estrelles ... encara que permet, també, pujar imatges des del nostre ordinador. Es poden fer diversos mapes alhora que es col·loquen en diferents pestanyes. Permet convidar col·laboradors, afegir comentaris i enviar el mapa per correu. D'altra banda, es pot exportar com a imatge o PDF per desar-lo al nostre ordinador. Les aplicacions a dur a terme són molt variades, des d'organitzar una simple trobada familiar fins a complexos mapes de desenvolupament dins d'un laboratori i/o gran empresa. També es pot fer servir per a estructurar les feines, ja siguen de com portar la casa fins a l'organització dels apunts, com estudiar i en quina intensitat es farà...</p>
+</description>
+<categories>
+<category>Zomando</category>
+<category>Lliurex</category>
+<category>Utility</category>
+</categories>
+<icon type="cached">cmaptools</icon>
+
+<keywords>
+<keyword>zero</keyword>
+<keyword>lliurex</keyword>
+<keyword>cmaptools</keyword>
+<keyword>zero-lliurex-cmaptools</keyword>
+<keyword>Zomando</keyword>
+</keywords>
+<keywords xml:lang="es">
+<keyword>Instalador</keyword>
+<keyword>del</keyword>
+<keyword>CmapTools</keyword>
+<keyword>Zomando</keyword>
+</keywords>
+<keywords xml:lang="ca_ES.UTF-8@valencia">
+<keyword>Instal·lador</keyword>
+<keyword>Zomando</keyword>
+</keywords>
+<keywords xml:lang="ca_ES">
+<keyword>Zomando</keyword>
+
+</keywords>
+</component>
