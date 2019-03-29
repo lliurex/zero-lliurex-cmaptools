@@ -1,3 +1,9 @@
+zero-lliurex-cmaptools (0.37) bionic; urgency=medium
+
+  * Fix zomando desktop.
+
+ -- Juanma Navarro Mañez <juanma1980@gmail.com>  Fri, 29 Mar 2019 11:43:02 +0100
+
 zero-lliurex-cmaptools (0.36) bionic; urgency=medium
 
   * Changed adm group by sudo
