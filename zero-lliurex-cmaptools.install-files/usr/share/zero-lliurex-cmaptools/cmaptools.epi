@@ -1,6 +1,6 @@
 {
 	"type":"apt",
-	"pkg_list": [{"name":"lliurex-cmaptools","key_store":"zero-lliurex-cmaptools","custom_icon":"cmaptools.svg"}],
+	"pkg_list": [{"name":"lliurex-cmaptools","key_store":"zero-lliurex-cmaptools","custom_icon":"cmaptools.svg","custom_name":"CmapTools: to create conceptual maps"}],
 	"script": {"name":"/usr/share/zero-lliurex-cmaptools/cmaptools_script","remove":true},
 	"custom_icon_path":"/usr/share/zero-lliurex-cmaptools/",
 	"required_x":true,
