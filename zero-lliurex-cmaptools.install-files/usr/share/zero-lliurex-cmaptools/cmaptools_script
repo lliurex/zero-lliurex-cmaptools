@@ -8,17 +8,17 @@ create_desktop(){
 	echo "[Desktop Entry]" >> $PATH_TO_DESKTOP
 	echo "Encoding=UTF-8" >> $PATH_TO_DESKTOP
 	echo "Name=CmapTools" >> $PATH_TO_DESKTOP
-	echo "Comment=Multimedia educational activities: puzzles, associations, text exercises, crosswords, scrambled letters, etc." >> $PATH_TO_DESKTOP
-	echo "Comment[ca_ES.utf8@valencia]=Activitats educatives multimèdia: puzzles, associacions, exercicis de text, mots encreuats, sopes de lletres i altres." >> $PATH_TO_DESKTOP
-	echo "Comment[es]=Actividades educativas multimedia: puzzles, asociaciones, ejercicios de texto, crucigramas, sopas de letras, etc." >> $PATH_TO_DESKTOP
-	echo "Comment[qcv]=Activitats educatives multimèdia: puzzles, associacions, exercicis de text, mots encreuats, sopes de lletres i altres." >> $PATH_TO_DESKTOP
+	echo "Comment=Tool to create concept maps" >> $PATH_TO_DESKTOP
+	echo "Comment[ca_ES.utf8@valencia]=Eina per a crear mapes conceptuals" >> $PATH_TO_DESKTOP
+	echo "Comment[es]=Herramienta para crear mapas conceptuales" >> $PATH_TO_DESKTOP
+	echo "Comment[ca@valencia]=Eina per a crear mapes conceptuals" >> $PATH_TO_DESKTOP
 	echo "Icon=cmaptools.png" >> $PATH_TO_DESKTOP
 	echo "Exec="$1"/CmapTools">> $PATH_TO_DESKTOP
 	echo "Terminal=false" >> $PATH_TO_DESKTOP
 	echo "Type=Application" >> $PATH_TO_DESKTOP
 	echo "Categories=Application;Education" >> $PATH_TO_DESKTOP
 	echo "StartupNotify=false" >> $PATH_TO_DESKTOP
-	echo "TryExec=java" >> $PATH_TO_DESKTOP
+	echo "TryExec="$1"/CmapTools" >> $PATH_TO_DESKTOP
 }
 
 ACTION="$1"
