@@ -35,8 +35,13 @@ case $ACTION in
 
 	postInstall)
 		
-		/usr/share/llx-cmaptools/Linux64CmapTools_v6.04_09-24-19.bin -f /usr/share/llx-cmaptools/cmaptools.template -r /usr/share/llx-cmaptools/out/result.txt
-		
+		if [[ $(arch) == "x86_64" ]]
+		then
+			/usr/share/llx-cmaptools/Linuxx64CmapTools_v6.01.01_07-23-15.bin -f /usr/share/llx-cmaptools/cmaptools.template -r /usr/share/llx-cmaptools/out/result.txt
+		else
+			/usr/share/llx-cmaptools/LinuxCmapTools_v6.01.01_07-23-15.bin -f /usr/share/llx-cmaptools/cmaptools.template -r /usr/share/llx-cmaptools/out/result.txt
+		fi
+
 	
 		if [ "$?" -eq 1 ];then
 			PATH_TO_INSTALL_DIR=$(cat /usr/share/llx-cmaptools/out/result.txt | grep USER_INSTALL_DIR | cut -d"=" -f2)
