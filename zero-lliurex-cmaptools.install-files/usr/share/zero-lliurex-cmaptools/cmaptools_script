@@ -49,7 +49,7 @@ case $ACTION in
 			if [ ! -d $PATH_TO_INSTALL_DIR ]; then	
 				exit 1
 			fi
-			create_desktop $PATH_TO_INSTALL_DIR
+			#create_desktop $PATH_TO_INSTALL_DIR
 		else
 			exit 1
 		fi		
@@ -71,11 +71,11 @@ case $ACTION in
 					exit 1
 				fi
 
-				DESKTOP_PATH="/usr/share/applications/cmaptools.desktop"
-				if [ -f $DESKTOP_PATH ];then
-					rm -f $DESKTOP_PATH
+				#DESKTOP_PATH="/usr/share/applications/cmaptools.desktop"
+				#if [ -f $DESKTOP_PATH ];then
+				#	rm -f $DESKTOP_PATH
 
-				fi
+				#fi
 			else
 				exit 1
 			fi	
