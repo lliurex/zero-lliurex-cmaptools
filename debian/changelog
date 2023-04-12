@@ -1,3 +1,9 @@
+zero-lliurex-cmaptools (0.51) focal; urgency=medium
+
+  * Removed desktop creation from epi script
+  
+ -- Juan Ramon Pelegrina <juapesai@hotmail.com>  Wed, 12 Apr 2023 15:36:43 +0200
+
 zero-lliurex-cmaptools (0.50) lliurex22; urgency=medium
 
   * Allow all groups
