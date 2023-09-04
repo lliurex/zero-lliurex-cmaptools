@@ -1,3 +1,9 @@
+zero-lliurex-cmaptools (0.61) jammy; urgency=medium
+
+  * Initial release for Jammy
+
+ -- Juan Ramon Pelegrina <juapesai@hotmail.com>  Mon, 04 Sep 2023 09:41:23 +0200
+
 zero-lliurex-cmaptools (0.51) focal; urgency=medium
 
   * Removed desktop creation from epi script
